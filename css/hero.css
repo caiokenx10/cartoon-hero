@@ -1,0 +1,66 @@
+
+
+body {
+	font-family: 'Bubblegum Sans', cursive;
+	margin:0;
+	font-size:20px;
+	line-height: 20px;
+	background-color:#0052C2;
+}
+
+header{
+	font-family: 'Bubblegum Sans', cursive;
+	background-color:#0052C2;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+header h1{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 100px;
+	color: #FF7520; 
+	
+
+}
+
+header img{
+	width: 250px;
+	
+	
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding:20px;
+}
+
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 50px;
+	color:#FF7520;
+	margin: 70px 0 10px;
+}
+a{
+	color:#FF7520;
+}
+a:hover{
+	color:gold;
+}
+footer{
+	text-align: center;
+	background-color:#00C4BE;
+	padding:50px;
+
+}
+footer p{
+	margin:0;
+}
+p.caption{
+	color:white;
+	font-style:italic;
+	margin-top:0;
+}
