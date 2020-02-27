@@ -1,4 +1,4 @@
-
+/* body styles */
 
 body {
 	font-family: 'Bubblegum Sans', cursive;
@@ -7,6 +7,8 @@ body {
 	line-height: 20px;
 	background-color:#0052C2;
 }
+
+/* all header styles */
 
 header{
 	font-family: 'Bubblegum Sans', cursive;
@@ -25,11 +27,20 @@ header h1{
 
 }
 
+header h2{
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 100px;
+	color: #FF7520;
+}
+
 header img{
-	width: 250px;
+	width: 300px;
 	
 	
 }
+
+/* main styles */
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -44,12 +55,18 @@ h2{
 	color:#FF7520;
 	margin: 70px 0 10px;
 }
+
+/* link styles */
+
 a{
 	color:#FF7520;
 }
 a:hover{
 	color:gold;
 }
+
+/* footer styles */
+
 footer{
 	text-align: center;
 	background-color:#00C4BE;
